@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+My favorite index fund is *Vanguard's* **VTSAX**. It is the **lowest** cost you can get in a fund. Also, notice how click baity copywritten articles **contain a lot of bold** to capture your attention *and keep you reading*. 
