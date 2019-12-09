@@ -10,4 +10,13 @@ I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey t
 
 I'll meet you over there, can't wait to get started!
 
+# Errors and workarounds for them.
+<details>
+  <summary>Espresso server fails to start</summary>
+  
+  ## Run `rebuildEspresso`
+  1. Add `rebuildEspresso: "true"` to capabilities.
+  2. Run test.
+</details>
+
 This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.
